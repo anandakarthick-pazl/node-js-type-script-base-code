@@ -1,0 +1,1 @@
+# node-js-type-script-base-code
